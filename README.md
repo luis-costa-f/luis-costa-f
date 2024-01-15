@@ -4,13 +4,12 @@
 #### Dota 2 ❤️
 
 ```diff
-      Hi, I'm Luis Costa,
-       Developer
-      
-    # Luis Costa
-    ## Eu só estava curioso para ver isso aqui
-    ### Com o tempo eu vou editando 
-    #### Dota 2 ❤️
+Hi, I'm Luis Costa,
+Developer
+
+## Eu só estava curioso para ver isso aqui
+### Com o tempo eu vou editando 
+#### Dota 2 ❤️
 ```
 
 ### Olá! Eu sou o Luis Costa
