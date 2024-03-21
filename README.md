@@ -34,7 +34,7 @@ Developer
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 
   <div align='center'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisc05ta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisc05ta&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-costa-f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-costa-f&layout=compact&langs_count=6&theme=chartreuse-dark"/>
   </div>
 </div>
